@@ -16,7 +16,7 @@ https://love2d.org/
 ## New features
 Added 
 - Random color changing ball 
-- Forward/backward movement to advance onto opponents side
+- Forward/backward movement to advance over to opponents side
 
 
 Wish list
