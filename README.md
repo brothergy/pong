@@ -14,12 +14,12 @@ https://love2d.org/
 ```
 
 ## New features
-Added: 
+Added 
 - Random color changing ball 
 - Forward/backward movement to advance onto opponents side
 
 
-Wish list:
+Wish list
 - Accelerate paddle for longer key presss
 - Add obstacles
 - Add moving obstacles
